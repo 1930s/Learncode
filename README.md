@@ -12,11 +12,11 @@
 
 ## Screenshots
 ### Homepage
-![Homepage](http://i.imgur.com/0t9y8eR.png)
+![Homepage](http://i.imgur.com/fPxqCaO.png)
 ### Task Selection Screen
-![Task Selection Screen](http://i.imgur.com/ec9RNHK.png)
+![Task Selection Screen](http://i.imgur.com/fbhFkni.png)
 ### Code Editor Screen
-![IDE Screen](http://i.imgur.com/vfQFn7d.png)
+![IDE Screen](http://i.imgur.com/uo0bPfV.png)
 
 
 ### Contributing
